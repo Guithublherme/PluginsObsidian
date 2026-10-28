@@ -1,0 +1,9 @@
+{
+  "id": "pdf-para-notas",
+  "name": "PDF para Notas",
+  "version": "0.3.0",
+  "minAppVersion": "1.4.0",
+  "description": "Converte um PDF em capítulos e seções separados em vários arquivos .md, com links entre eles.",
+  "author": "Você",
+  "isDesktopOnly": true
+}
