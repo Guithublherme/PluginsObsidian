@@ -1,6 +1,6 @@
 {
   "id": "pdf-2-md",
-  "name": "PDF2.md ",
+  "name": "PDF2md ",
   "version": "1.0.0",
   "minAppVersion": "1.4.0",
   "description": "Converts a PDF into chapters and sections, split into multiple .md files with links between them.",
